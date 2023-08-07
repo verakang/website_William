@@ -88,7 +88,8 @@ body {
 }
 .nav {
   align-items: start;
-  padding: 32px;
+  padding-top: 32px;
+  color: #fff;
 }
 .nav a {
   color: #fff;
@@ -207,13 +208,14 @@ body {
   padding: 160px 0;
 }
 .project-title {
-  display: inline-block;
+  display: block;
+  margin-left: auto;
   width: 746px;
-  align-self: end;
   margin-bottom: 16px;
 }
 .project-aside{
   width: 416px;
+  margin-right: auto;
 }
 .project-content {
   width: 856px;
